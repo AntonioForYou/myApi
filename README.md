@@ -1,4 +1,4 @@
-Адрес ресурса [text](https://localhost/myApi/users).
+Адрес ресурса [https://localhost/myApi/users](https://localhost/myApi/users).
 
 При обращении по данному адресу методом GET выводятся имена и email всех пользователей (получение данных пользователей). Чтобы получить информацию о конкретном пользователе, через слэш указывается email. Например: [https://localhost/myApi/users/example@example.com](https://localhost/myApi/users/example@example.com). Если такого пользователя не нашлось, высылается ответ в формате JSON-объекта.
 
